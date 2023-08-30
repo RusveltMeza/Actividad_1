@@ -4,6 +4,9 @@
  */
 package com.mycompany.pooer4;
 
+import java.util.Scanner;
+
+
 /**
  *
  * @author rusve
