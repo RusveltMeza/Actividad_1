@@ -1,5 +1,7 @@
  * @author rusve
  */
+import java.util.Scanner;
+
 public class POOER12 {
      public static void main(String[] args) {
         double Rete_Fuente, Salario_Bruto, Salario_Neto, Porcentaje_Ret;
