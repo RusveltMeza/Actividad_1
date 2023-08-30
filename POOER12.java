@@ -3,11 +3,13 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
 
+import java.util.Scanner;
+
 /**
  *
  * @author rusve
  */
-import java.util.Scanner;
+
 
 public class POOER12 {
     public static void main(String[] args) {
