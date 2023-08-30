@@ -14,12 +14,15 @@ public class POOER14 {
     public static void main(String[] args) {
         int Numero, Num_cuadrado, Num_cubo;
         Scanner entrada = new Scanner (System.in);
-        System.out.println("Ingrese un número: ");
+        System.out.println("Ingrese un numero: ");
         
         Numero = entrada.nextInt();
         Num_cuadrado = Numero * Numero;
         Num_cubo = Numero * Numero * Numero;
         System.out.println ("El cuadrado es: " + Num_cuadrado);
         System.out.println ("El cubo es: " + Num_cubo);
+
+        // Cerrar el Scanner para liberar recursos
+        entrada.close();
     }
 }
